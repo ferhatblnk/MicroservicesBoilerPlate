@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FreeCourse.Services.Catalog
-build_property.ProjectDir = C:\Univera\Repositories\C#\Microservices\MicroservicesBoilerPlate\Services\Catalog\FreeCourse.Services.Catalog\
+build_property.ProjectDir = c:\Univera\Repositories\C#\Microservices Boiler Plate\MicroservicesBoilerPlate\MicroservicesBoilerPlate\Services\Catalog\FreeCourse.Services.Catalog\
