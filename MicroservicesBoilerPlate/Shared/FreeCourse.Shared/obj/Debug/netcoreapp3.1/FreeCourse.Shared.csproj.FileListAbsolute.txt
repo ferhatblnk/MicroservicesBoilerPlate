@@ -8,3 +8,13 @@ C:\Univera\Repositories\C#\Microservices\MicroservicesBoilerPlate\Shared\FreeCou
 C:\Univera\Repositories\C#\Microservices\MicroservicesBoilerPlate\Shared\FreeCourse.Shared\obj\Debug\netcoreapp3.1\FreeCourse.Shared.csproj.CoreCompileInputs.cache
 C:\Univera\Repositories\C#\Microservices\MicroservicesBoilerPlate\Shared\FreeCourse.Shared\obj\Debug\netcoreapp3.1\FreeCourse.Shared.dll
 C:\Univera\Repositories\C#\Microservices\MicroservicesBoilerPlate\Shared\FreeCourse.Shared\obj\Debug\netcoreapp3.1\FreeCourse.Shared.pdb
+C:\Univera\Repositories\C#\Microservices Boiler Plate\MicroservicesBoilerPlate\MicroservicesBoilerPlate\Shared\FreeCourse.Shared\bin\Debug\netcoreapp3.1\FreeCourse.Shared.deps.json
+C:\Univera\Repositories\C#\Microservices Boiler Plate\MicroservicesBoilerPlate\MicroservicesBoilerPlate\Shared\FreeCourse.Shared\bin\Debug\netcoreapp3.1\FreeCourse.Shared.dll
+C:\Univera\Repositories\C#\Microservices Boiler Plate\MicroservicesBoilerPlate\MicroservicesBoilerPlate\Shared\FreeCourse.Shared\bin\Debug\netcoreapp3.1\FreeCourse.Shared.pdb
+C:\Univera\Repositories\C#\Microservices Boiler Plate\MicroservicesBoilerPlate\MicroservicesBoilerPlate\Shared\FreeCourse.Shared\obj\Debug\netcoreapp3.1\FreeCourse.Shared.csproj.AssemblyReference.cache
+C:\Univera\Repositories\C#\Microservices Boiler Plate\MicroservicesBoilerPlate\MicroservicesBoilerPlate\Shared\FreeCourse.Shared\obj\Debug\netcoreapp3.1\FreeCourse.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Univera\Repositories\C#\Microservices Boiler Plate\MicroservicesBoilerPlate\MicroservicesBoilerPlate\Shared\FreeCourse.Shared\obj\Debug\netcoreapp3.1\FreeCourse.Shared.AssemblyInfoInputs.cache
+C:\Univera\Repositories\C#\Microservices Boiler Plate\MicroservicesBoilerPlate\MicroservicesBoilerPlate\Shared\FreeCourse.Shared\obj\Debug\netcoreapp3.1\FreeCourse.Shared.AssemblyInfo.cs
+C:\Univera\Repositories\C#\Microservices Boiler Plate\MicroservicesBoilerPlate\MicroservicesBoilerPlate\Shared\FreeCourse.Shared\obj\Debug\netcoreapp3.1\FreeCourse.Shared.csproj.CoreCompileInputs.cache
+C:\Univera\Repositories\C#\Microservices Boiler Plate\MicroservicesBoilerPlate\MicroservicesBoilerPlate\Shared\FreeCourse.Shared\obj\Debug\netcoreapp3.1\FreeCourse.Shared.dll
+C:\Univera\Repositories\C#\Microservices Boiler Plate\MicroservicesBoilerPlate\MicroservicesBoilerPlate\Shared\FreeCourse.Shared\obj\Debug\netcoreapp3.1\FreeCourse.Shared.pdb

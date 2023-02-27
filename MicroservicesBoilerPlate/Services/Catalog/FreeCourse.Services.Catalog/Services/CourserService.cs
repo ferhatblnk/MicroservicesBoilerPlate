@@ -13,7 +13,7 @@ using System.Threading.Tasks;
 namespace FreeCourse.Services.Catalog.Services
 {
 
-public class CourseService
+public class CourseService:ICourseService
     {
         private readonly IMongoCollection<Course> _courseCollection;
         private readonly IMongoCollection<Category> _categoryCollection;
@@ -75,7 +75,7 @@ public class CourseService
 
         }
 
-        public async Task<Response<CourseDto>> CreateAync(CourseCreateDto courseCreateDto)
+        public async Task<Response<CourseDto>> CreateAsync(CourseCreateDto courseCreateDto)
         {
             var newCourse = _mapper.Map<Course>(courseCreateDto);
             newCourse.Createdate = DateTime.Now;

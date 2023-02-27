@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Univera\\Repositories\\C#\\Microservices\\MicroservicesBoilerPlate\\Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj",
+      "projectUniqueName": "C:\\Univera\\Repositories\\C#\\Microservices Boiler Plate\\MicroservicesBoilerPlate\\MicroservicesBoilerPlate\\Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj",
       "projectName": "FreeCourse.Shared",
-      "projectPath": "C:\\Univera\\Repositories\\C#\\Microservices\\MicroservicesBoilerPlate\\Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj",
+      "projectPath": "C:\\Univera\\Repositories\\C#\\Microservices Boiler Plate\\MicroservicesBoilerPlate\\MicroservicesBoilerPlate\\Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj",
       "packagesPath": "C:\\Users\\ferhat.bulanik\\.nuget\\packages\\",
-      "outputPath": "C:\\Univera\\Repositories\\C#\\Microservices\\MicroservicesBoilerPlate\\Shared\\FreeCourse.Shared\\obj\\",
+      "outputPath": "C:\\Univera\\Repositories\\C#\\Microservices Boiler Plate\\MicroservicesBoilerPlate\\MicroservicesBoilerPlate\\Shared\\FreeCourse.Shared\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
