@@ -1,5 +1,6 @@
 ﻿using System.Threading.Tasks;
 using FreeCourse.Services.Catalog.Dtos;
+using FreeCourse.Services.Catalog.Services;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
