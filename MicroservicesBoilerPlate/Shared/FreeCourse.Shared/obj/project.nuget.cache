@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NuGurw8bBNvOzsIez+/skum02c5TISgSgeczJjfssseAJxAOGO+AHkoG0inKGj4yYTILGa1i+XgWWA2eapxFow==",
+  "dgSpecHash": "rb13aaCKsbqgU51U98QAS0BOaUD5zxl6OTcNZgSZPNthFzdSDHqEgCqms0HJA+3IeZI1zuzXIXXfmrjs4m6ywQ==",
   "success": true,
-  "projectFilePath": "C:\\Univera\\Repositories\\C#\\Microservices Boiler Plate\\MicroservicesBoilerPlate\\MicroservicesBoilerPlate\\Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj",
+  "projectFilePath": "C:\\Univera\\Repositories\\C#\\MicroservicesBoilerPlate\\MicroservicesBoilerPlate\\Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KPvLAcjk33daeElOxlqFd6tXVwBJWELhChm9ZOoqAd/ljM0rIJ1cKdq9yYN+7BZaZksHO0/L7+3915p+TpOfrQ==",
+  "dgSpecHash": "Q6er44akXxO8bxgCy8E9OzfjOq2x+X/qlXtJOy/enraDY86R7ySW9fVFsJjMPP08savbmDGQks6r5eGc6QiTZA==",
   "success": true,
-  "projectFilePath": "C:\\Univera\\Repositories\\C#\\Microservices Boiler Plate\\MicroservicesBoilerPlate\\MicroservicesBoilerPlate\\Services\\Catalog\\FreeCourse.Services.Catalog\\FreeCourse.Services.Catalog.csproj",
+  "projectFilePath": "C:\\Univera\\Repositories\\C#\\MicroservicesBoilerPlate\\MicroservicesBoilerPlate\\Services\\Catalog\\FreeCourse.Services.Catalog\\FreeCourse.Services.Catalog.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ferhat.bulanik\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\ferhat.bulanik\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
